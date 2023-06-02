@@ -322,7 +322,7 @@
 
   (footprint "MY ENCODER LIBRARY:ENC_PEC12R-4025F-S0024" (layer "F.Cu")
     (tedit 6478AFB6) (tstamp 000ff83c-989c-43ee-a3f1-9900ee616fcf)
-    (at 393.7 92.71 90)
+    (at 135.382 76.2 90)
     (property "MANUFACTURER" "BOURNS")
     (property "Sheetfile" "mux_pots.kicad_sch")
     (property "Sheetname" "MUX - POTS")
@@ -390,7 +390,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF1001T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 001894fc-0708-4c30-87c6-73db4e7b692e)
-    (at 134.17 87.166)
+    (at 405.362 45.102)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -432,7 +432,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0805W8F1000T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 06495e02-6cd3-40f7-8d98-618a564f4d54)
-    (at 645.614 96.076)
+    (at 432.994 100.06)
     (descr "0805 SMD resistor")
     (tags "resistor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -474,7 +474,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT" (layer "F.Cu")
     (tedit 0) (tstamp 072ec265-bcb2-4750-9bea-54eb66b13b0c)
-    (at 649.5904 87.543)
+    (at 436.9704 91.527)
     (descr "3.5mm headphone jack 235℃ 30V 0.5A")
     (property "Sheetfile" "audio.kicad_sch")
     (property "Sheetname" "AUDIO")
@@ -685,7 +685,7 @@
 
   (footprint "MY IC LIBRARY:CP2102N-A02-GQFN28R_QFN-28" (layer "F.Cu")
     (tedit 5DC5F6A4) (tstamp 078317fa-8b9c-46a3-912e-2a32f3fa3ced)
-    (at 443.23 78.994 -90)
+    (at 184.912 62.484 -90)
     (descr "QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -796,7 +796,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 09deee27-0932-4bdc-9037-3385c54349a8)
-    (at 340.4 128.817 90)
+    (at 82.082 112.307 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -850,7 +850,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF2201T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 0c05d35c-2232-4632-a28d-03472f2b01a4)
-    (at 507.498 112.974)
+    (at 343.106 61.48)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -934,7 +934,7 @@
 
   (footprint "MY DIODE LIBRARY:SP0503BAHTG_SOT-143" (layer "F.Cu")
     (tedit 5D28A606) (tstamp 0e4b12fc-79b6-43ef-9146-441eb1482e32)
-    (at 109.3 102.516)
+    (at 380.492 60.452)
     (descr "SOT-143-4")
     (property "Category" "Circuit Protection")
     (property "DK_Datasheet_Link" "https://www.littelfuse.com/~{/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf}")
@@ -991,7 +991,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CC0603KRX7R9BB104_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 0e9d84a2-b0f8-4934-b2a9-c8b565405b70)
-    (at 493.254 85.436)
+    (at 328.862 33.942)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "midi.kicad_sch")
@@ -1033,7 +1033,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CC0603KRX7R9BB104_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 12909a2c-ec44-4221-82cf-8284685a9ca8)
-    (at 554.42 161.976 180)
+    (at 345.632 86.284 180)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "power.kicad_sch")
@@ -1075,7 +1075,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CC0603KRX7R9BB104_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 142ef9fb-5f14-4f6c-8ceb-761c5f3bcac2)
-    (at 118.18 101.246)
+    (at 389.372 59.182)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -1117,7 +1117,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 1469cd0a-8d56-482d-a04d-85831e18accc)
-    (at 408.134 128.817 90)
+    (at 149.816 112.307 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -1171,7 +1171,7 @@
 
   (footprint "MY AUDIO CODEC LIBRARY:WM8978CGEFL_RV_WQFN-32" (layer "F.Cu")
     (tedit 5D2895FE) (tstamp 15cb38f8-d625-4fb8-a067-960b0863714d)
-    (at 374.154 86.302)
+    (at 115.836 69.792)
     (descr "WQFN-32 - Stereo CODEC with Speaker Driver")
     (property "Sheetfile" "audio.kicad_sch")
     (property "Sheetname" "AUDIO")
@@ -1283,7 +1283,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 1b3e1789-4cee-4c1c-b687-7dd94333d86f)
-    (at 442 107.65 90)
+    (at 183.682 91.14 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -1337,7 +1337,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT" (layer "F.Cu")
     (tedit 0) (tstamp 23b66553-2ea6-4a30-89db-752c1d0512fc)
-    (at 678.1704 144.563)
+    (at 465.5504 148.547)
     (descr "3.5mm headphone jack 235℃ 30V 0.5A")
     (property "Sheetfile" "midi.kicad_sch")
     (property "Sheetname" "MIDI")
@@ -1548,7 +1548,7 @@
 
   (footprint "MountingHole:MountingHole_2.5mm_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 23c71fcc-0b4f-4622-a321-408143c5e276)
-    (at 196.05 105.266)
+    (at 446.16 48.978)
     (descr "Mounting Hole 2.5mm")
     (tags "mounting hole 2.5mm")
     (property "Sheetfile" "ESP32 synth.kicad_sch")
@@ -1574,7 +1574,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A475KO8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 24c4fe6e-17ec-48de-ba59-c0923622ec2e)
-    (at 364.69 86.36)
+    (at 106.372 69.85)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -1616,7 +1616,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:0603_CL10A226MQ8NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 271ed6cc-5140-4af5-9525-493469193097)
-    (at 521.208 161.544 -90)
+    (at 312.42 85.852 -90)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "power.kicad_sch")
@@ -1658,7 +1658,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0402WGF1003TCE" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 27e850f0-5b64-4817-adef-6e8d30cbbb93)
-    (at 530.606 157.988 -90)
+    (at 321.818 82.296 -90)
     (descr "0402 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "power.kicad_sch")
@@ -1700,7 +1700,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT" (layer "F.Cu")
     (tedit 0) (tstamp 2a7d4ce6-79bf-49c8-a7bc-b397ffe12751)
-    (at 649.5904 144.563)
+    (at 436.9704 148.547)
     (descr "3.5mm headphone jack 235℃ 30V 0.5A")
     (property "Sheetfile" "midi.kicad_sch")
     (property "Sheetname" "MIDI")
@@ -1911,7 +1911,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT" (layer "F.Cu")
     (tedit 0) (tstamp 2d9978e7-fa6f-4080-9eb4-cca4185e03f5)
-    (at 621.0104 113.693)
+    (at 408.3904 117.677)
     (descr "3.5mm headphone jack 235℃ 30V 0.5A")
     (property "Sheetfile" "audio.kicad_sch")
     (property "Sheetname" "AUDIO")
@@ -2122,7 +2122,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0805W8F330JT5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 2e2b38fb-afc4-44d7-ba94-d4a44288c779)
-    (at 615.204 153.096)
+    (at 402.584 157.08)
     (descr "0805 SMD resistor")
     (tags "resistor")
     (property "Sheetfile" "midi.kicad_sch")
@@ -2164,7 +2164,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 309153a4-806e-4c97-bef3-4d1bcdd94e6c)
-    (at 374.266667 171.15 90)
+    (at 115.948667 154.64 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -2218,7 +2218,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:0603_CL10A106KP8NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 31197f84-c889-482b-9403-061b35d408a8)
-    (at 557.722 159.182 -90)
+    (at 348.934 83.49 -90)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "power.kicad_sch")
@@ -2260,7 +2260,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A475KO8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 31fb6aca-8f37-4efa-8aa3-1f0c2992e239)
-    (at 503.488 115.484)
+    (at 339.096 63.99)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -2302,7 +2302,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CC0603KRX7R9BB104_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 33cb5c3a-5646-41ef-90b4-3f90b1d5152c)
-    (at 490.284 87.946)
+    (at 325.892 36.452)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "midi.kicad_sch")
@@ -2344,7 +2344,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF2201T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3442c2e3-34a3-4322-bea6-886b9a9b75fa)
-    (at 364.69 83.85)
+    (at 106.372 67.34)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -2386,7 +2386,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3696c354-6c16-4b1d-a15c-7127e06403c3)
-    (at 360.68 88.87)
+    (at 102.362 72.36)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -2428,7 +2428,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 36d37947-0d4f-4277-a813-36c14d601b6a)
-    (at 408.134 171.15 90)
+    (at 149.816 154.64 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -2482,7 +2482,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 36d860d2-ff7a-41b3-8426-c1c27f7482cf)
-    (at 340.4 171.15 90)
+    (at 82.082 154.64 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -2536,7 +2536,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 37867190-0ba1-4e3b-9ae9-cba5ff5b6a89)
-    (at 663.344 80.366)
+    (at 450.724 84.35)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -2578,7 +2578,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:0603_CL10A226MQ8NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3931e47d-a7e6-432c-91a2-b179a8191246)
-    (at 542.163 78.74)
+    (at 377.771 27.246)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "sd_tft.kicad_sch")
@@ -2620,7 +2620,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0805W8F330JT5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3ae2327e-dee5-473c-8ce0-f25a71937701)
-    (at 606.384 153.096)
+    (at 393.764 157.08)
     (descr "0805 SMD resistor")
     (tags "resistor")
     (property "Sheetfile" "midi.kicad_sch")
@@ -2662,7 +2662,7 @@
 
   (footprint "MY RESISTOR LIBRARY:CQ03WAJ0152T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3f9c6423-9ab0-4740-b5c7-f46f9f38d97b)
-    (at 483.308 68.356)
+    (at 318.916 16.862)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -2704,7 +2704,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 4050692d-8466-4bdf-badf-575fe1c5a024)
-    (at 408.134 107.65 90)
+    (at 149.816 91.14 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -2758,7 +2758,7 @@
 
   (footprint "MY REGULATOR LIBRARY:TLV62569DBVR" (layer "F.Cu")
     (tedit 5F6F9B37) (tstamp 4091877d-7a01-46ff-92fb-8a2b0570705d)
-    (at 524.764 161.798)
+    (at 315.976 86.106)
     (descr "SOT-23-5 - DC-DC Converters")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "power.kicad_sch")
@@ -2809,7 +2809,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0805W8F330JT5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 44451525-c6fd-4e4b-a4f1-04e68026ed99)
-    (at 606.384 156.046)
+    (at 393.764 160.03)
     (descr "0805 SMD resistor")
     (tags "resistor")
     (property "Sheetfile" "midi.kicad_sch")
@@ -2851,7 +2851,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 49eca03c-c514-4708-905d-a2501b7f4207)
-    (at 663.344 77.856)
+    (at 450.724 81.84)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -2893,7 +2893,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 4c56bb32-8446-4c8b-8ef9-f7ac92a29ad1)
-    (at 482.908 71.306)
+    (at 318.516 19.812)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -2935,7 +2935,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 4f85b980-2544-475a-81c9-8cb1d27c59c0)
-    (at 391.2 139.4 90)
+    (at 132.882 122.89 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -2989,7 +2989,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0402WGF2201TCE" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 52ee9aab-4a4a-4245-9370-585fd0a797ed)
-    (at 521.025 174.464 -90)
+    (at 312.237 98.772 -90)
     (descr "0402 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "power.kicad_sch")
@@ -3031,7 +3031,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A475KO8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 57c6cab4-1332-4d69-b405-8c106bf2fda7)
-    (at 360.68 86.36)
+    (at 102.362 69.85)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -3073,7 +3073,7 @@
 
   (footprint "MY INDUCTOR LIBRARY:CD32YP0302-2R2M" (layer "F.Cu")
     (tedit 0) (tstamp 59d24685-bd84-4ce9-87b6-409f81eb3c2c)
-    (at 524.764 159.0675)
+    (at 315.976 83.3755)
     (descr "SMD3.5x3x2.1mm - SMD Inductor - 2.2uH - 1.8A - 80mΩ - ±20%")
     (property "Sheetfile" "power.kicad_sch")
     (property "Sheetname" "POWER")
@@ -3106,7 +3106,7 @@
 
   (footprint "MY FERRITE BEAD LIBRARY:UPZ1608U601-1R3TF_0603" (layer "F.Cu")
     (tedit 5D288D2B) (tstamp 5fa1f004-0e7a-4970-b53c-3b34ce0a4182)
-    (at 530.153 97.82)
+    (at 365.761 46.326)
     (descr "0603 - SMD Ferrite - 600R - 150mΩ - 1.3A - ±25%")
     (property "Sheetfile" "sd_tft.kicad_sch")
     (property "Sheetname" "SD - TFT")
@@ -3147,7 +3147,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 613a5043-12c6-49f1-a4b9-e637b168cea3)
-    (at 542.163 83.76)
+    (at 377.771 32.266)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "sd_tft.kicad_sch")
@@ -3189,7 +3189,7 @@
 
   (footprint "MY MICROCONTROLLER LIBRARY:XCVR_ESP32-WROVER-E-N4R8" (layer "F.Cu")
     (tedit 640D909E) (tstamp 68689933-54c3-4168-a39a-89f40cc06aab)
-    (at 393.446 67.31)
+    (at 135.128 50.8)
     (property "MANUFACTURER" "Espressif Systems")
     (property "MAXIMUM_PACKAGE_HEIGHT" "3.45 mm")
     (property "PARTREV" "1.6")
@@ -3337,10 +3337,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 384.446 51.61)
-          (xy 402.446 51.61)
-          (xy 402.446 57.83)
-          (xy 384.446 57.83)
+          (xy 126.128 35.1)
+          (xy 144.128 35.1)
+          (xy 144.128 41.32)
+          (xy 126.128 41.32)
         )
       )
     )
@@ -3351,10 +3351,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 384.446 51.61)
-          (xy 402.446 51.61)
-          (xy 402.446 57.83)
-          (xy 384.446 57.83)
+          (xy 126.128 35.1)
+          (xy 144.128 35.1)
+          (xy 144.128 41.32)
+          (xy 126.128 41.32)
         )
       )
     )
@@ -3367,7 +3367,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 6c813228-35f8-40dd-9891-169286994819)
-    (at 374.266667 149.984 90)
+    (at 115.948667 133.474 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -3421,7 +3421,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 6cf99d36-81da-4588-b20a-1c6872332a0f)
-    (at 442 128.817 90)
+    (at 183.682 112.307 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -3475,7 +3475,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 716905b8-022c-4dee-a634-940ded88f514)
-    (at 542.163 81.25)
+    (at 377.771 29.756)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "sd_tft.kicad_sch")
@@ -3517,7 +3517,7 @@
 
   (footprint "MountingHole:MountingHole_2.5mm_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 71e2e1c1-c930-49d8-aea8-fe1affda78f0)
-    (at 189.5 105.266)
+    (at 439.61 48.978)
     (descr "Mounting Hole 2.5mm")
     (tags "mounting hole 2.5mm")
     (property "Sheetfile" "ESP32 synth.kicad_sch")
@@ -3543,7 +3543,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 75aa312d-5ba3-476a-b61b-de458d607b89)
-    (at 501.804 75.136)
+    (at 337.412 23.642)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "midi.kicad_sch")
@@ -3585,7 +3585,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF2202T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 77bdb834-838d-4a24-a35d-19541de663ca)
-    (at 380.238 37.338)
+    (at 121.92 20.828)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -3627,7 +3627,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 77d17ace-756d-43ec-b501-99b3a988d10c)
-    (at 442 149.984 90)
+    (at 183.682 133.474 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -3681,7 +3681,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:YTC-TC16S-28" (layer "F.Cu")
     (tedit 6478CF06) (tstamp 78f0421a-a0cd-4558-beee-2161b6ac1dee)
-    (at 454.406 78.994 90)
+    (at 196.088 62.484 90)
     (descr "USB-C connector 16 pin")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
     (property "Sheetname" "MCU - USB - JTAG")
@@ -3748,7 +3748,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 7a989f24-ac25-4faf-b849-8fde8a2dd209)
-    (at 374.267 107.65 90)
+    (at 115.949 91.14 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -3802,7 +3802,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0805W8F1000T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 7abffc95-204f-4d7f-8bae-7f83338a13cd)
-    (at 634.964 104.226)
+    (at 422.344 108.21)
     (descr "0805 SMD resistor")
     (tags "resistor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -3844,7 +3844,7 @@
 
   (footprint "MY REGULATOR LIBRARY:TPS79333DBVR_SOT-23-5" (layer "F.Cu")
     (tedit 5F6F9B37) (tstamp 7be00e56-a6cc-4a1f-8e67-3bf2dbbf60c7)
-    (at 554.228 159.004)
+    (at 345.44 83.312)
     (descr "SOT-23-5 - Low-Noise, High PSRR, RF, 200-mA Low-Dropout Linear Regulators")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "power.kicad_sch")
@@ -3895,7 +3895,7 @@
 
   (footprint "MountingHole:MountingHole_2.5mm_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 7d41652f-ffcd-4d7d-a9c5-49117e4a51fc)
-    (at 196.05 111.816)
+    (at 446.16 55.528)
     (descr "Mounting Hole 2.5mm")
     (tags "mounting hole 2.5mm")
     (property "Sheetfile" "ESP32 synth.kicad_sch")
@@ -3921,7 +3921,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF5101T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 82b64999-4da1-404a-9b05-ca2b3d391dcd)
-    (at 487.318 68.356)
+    (at 322.926 16.862)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -3963,7 +3963,7 @@
 
   (footprint "MY IC LIBRARY:74HC04D_653_SOIC-14" (layer "F.Cu")
     (tedit 0) (tstamp 883bbecf-f6f4-493c-a6c0-119ef8632efe)
-    (at 423.164 70.612)
+    (at 164.846 54.102)
     (descr "SOIC14")
     (tags "Integrated Circuit")
     (property "MPN" "74HC04D,653")
@@ -4048,7 +4048,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:0603_CL10A226MQ8NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 89ece1af-71b8-4ec8-9808-52839085b26e)
-    (at 130.16 82.146)
+    (at 401.352 40.082)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -4090,7 +4090,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 8abdc2c9-9d06-4980-b4ab-68cd8741fcb0)
-    (at 358.902 76.645 90)
+    (at 100.584 60.135 90)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -4132,7 +4132,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A475KO8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 8bbe1b93-8cae-4646-8ce7-bdce6abb4299)
-    (at 360.68 83.85)
+    (at 102.362 67.34)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -4174,7 +4174,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp 8cdd59b6-7e04-40ea-994f-9bd1b0644c5e)
-    (at 340.4 149.984 90)
+    (at 82.082 133.474 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -4228,7 +4228,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:RVT1A221M0605" (layer "F.Cu")
     (tedit 5BCA39D0) (tstamp 900b0fa6-7675-41b9-a683-e214bb6e259c)
-    (at 666.664 72.526)
+    (at 454.044 76.51)
     (descr "SMD Aluminum Electrolytic Capacitor - 220uF - ±20% - 10V - D6.3xL5.4mm")
     (tags "capacitor electrolytic")
     (property "Sheetfile" "audio.kicad_sch")
@@ -4293,7 +4293,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A475KO8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 92492029-d404-4c8b-b2a3-7435a3ecad3a)
-    (at 486.918 70.866)
+    (at 322.526 19.372)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -4335,7 +4335,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A106MA8NRNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 96bdbcde-22a5-4325-9109-992e7cdf8f2d)
-    (at 528.32 158.242 -90)
+    (at 319.532 82.55 -90)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "power.kicad_sch")
@@ -4377,7 +4377,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CC0603KRX7R9BB104_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 96fde09c-aceb-458b-acd8-6a2e6b1b74c7)
-    (at 173.12 87.396)
+    (at 423.23 31.108)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -4419,7 +4419,7 @@
 
   (footprint "MY FERRITE BEAD LIBRARY:0603_BLM18AG121SN1D" (layer "F.Cu")
     (tedit 5D288D2B) (tstamp 97708151-abc8-4bd4-9ad5-d306f79d3cc3)
-    (at 486.688 73.356)
+    (at 322.296 21.862)
     (descr "0603 - SMD Ferrite - 120R - 800mA - 0.180R - 25%")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
     (property "Sheetname" "MCU - USB - JTAG")
@@ -4460,7 +4460,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF2200T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9a8e6f1a-dcc2-45f1-b705-111ff064069f)
-    (at 486.274 86.886)
+    (at 321.882 35.392)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "midi.kicad_sch")
@@ -4502,7 +4502,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9b9f2fe6-bfea-4e7c-a997-b68c60890db8)
-    (at 550.864 159.436 90)
+    (at 342.076 83.744 90)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "power.kicad_sch")
@@ -4544,7 +4544,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9e233930-6c55-4205-a97b-f2b01ed2faae)
-    (at 526.373 97.84)
+    (at 361.981 46.346)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "sd_tft.kicad_sch")
@@ -4586,7 +4586,7 @@
 
   (footprint "MY SWITCH LIBRARY:TS-1187A-B-A-B_smd" (layer "F.Cu")
     (tedit 0) (tstamp a2be8a1a-d6aa-4f86-a0d9-7188b1897641)
-    (at 371.856 72.644)
+    (at 113.538 56.134)
     (descr "TS18-5-25-SL-260-SMT-TR-2")
     (tags "Switch")
     (property "Comment" "1825910-6")
@@ -4644,7 +4644,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:PZ127VS-12-10-H10-A38" (layer "F.Cu")
     (tedit 59FED6E3) (tstamp a3761fc4-bdc7-4649-adf2-7207b85536cc)
-    (at 703.964 129.696)
+    (at 491.344 133.68)
     (descr "surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows")
     (tags "Surface mounted pin header SMD 2x05 1.27mm double row")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -4738,7 +4738,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a58db821-06e6-49f3-8d00-6c58aba24277)
-    (at 130.16 87.166)
+    (at 401.352 45.102)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -4780,7 +4780,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp a60ccc85-a292-48a5-86cd-8bdb80724155)
-    (at 442 171.15 90)
+    (at 183.682 154.64 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -4834,7 +4834,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CC0603KRX7R9BB104_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a618fc76-12ac-4b60-b192-92e1d9ce1ed4)
-    (at 387.778 40.102)
+    (at 129.46 23.592)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -4876,7 +4876,7 @@
 
   (footprint "MY TRANSISTOR LIBRARY:MMBT3904_SOT-23" (layer "F.Cu")
     (tedit 5FA16958) (tstamp a69e46f2-e919-4c74-8060-2ca6c70aa576)
-    (at 363.2946 76.457)
+    (at 104.9766 59.947)
     (descr "SOT23")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -4923,7 +4923,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT" (layer "F.Cu")
     (tedit 0) (tstamp a710d479-e79f-484e-8c17-569fc13cfc97)
-    (at 621.0104 144.563)
+    (at 408.3904 148.547)
     (descr "3.5mm headphone jack 235℃ 30V 0.5A")
     (property "Sheetfile" "midi.kicad_sch")
     (property "Sheetname" "MIDI")
@@ -5134,7 +5134,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:RVT1A221M0605" (layer "F.Cu")
     (tedit 5BCA39D0) (tstamp a749db61-914d-49c6-b073-9ae78be7cc0d)
-    (at 638.084 98.676)
+    (at 425.464 102.66)
     (descr "SMD Aluminum Electrolytic Capacitor - 220uF - ±20% - 10V - D6.3xL5.4mm")
     (tags "capacitor electrolytic")
     (property "Sheetfile" "audio.kicad_sch")
@@ -5199,7 +5199,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp ac8aa3bf-dbc7-433a-a1ba-83ef1d8299c9)
-    (at 374.266667 128.817 90)
+    (at 115.948667 112.307 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -5253,7 +5253,7 @@
 
   (footprint "MY TRANSISTOR LIBRARY:MMBT3904_SOT-23" (layer "F.Cu")
     (tedit 5FA16958) (tstamp b035650b-8d47-430b-983d-4b136f6fe443)
-    (at 363.22 71.057)
+    (at 104.902 54.547)
     (descr "SOT23")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -5300,7 +5300,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp b5ef9afd-b273-4e86-bab1-37d7ec98fc70)
-    (at 408.134 149.984 90)
+    (at 149.816 133.474 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -5354,7 +5354,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp bde8a53d-9532-4814-907d-78a95873af73)
-    (at 358.14 71.311 90)
+    (at 99.822 54.801 90)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -5396,7 +5396,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp be2a7c41-048d-4867-ab48-0c6f5d63d413)
-    (at 673.994 69.706)
+    (at 461.374 73.69)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -5438,7 +5438,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF5101T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp bf504700-c557-4e4f-91b3-7ca5c1aa9618)
-    (at 478.898 71.306)
+    (at 314.506 19.812)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -5480,7 +5480,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT" (layer "F.Cu")
     (tedit 0) (tstamp c41112a4-ad7b-4f77-bdd8-a7d39259405b)
-    (at 621.0104 87.543)
+    (at 406.378 80.184)
     (descr "3.5mm headphone jack 235℃ 30V 0.5A")
     (property "Sheetfile" "audio.kicad_sch")
     (property "Sheetname" "AUDIO")
@@ -5691,7 +5691,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c664d3aa-2c63-4f48-a686-6840cfd0652b)
-    (at 639.174 104.006)
+    (at 426.554 107.99)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -5733,7 +5733,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:TF-15x15_smd" (layer "F.Cu")
     (tedit 0) (tstamp c85fa581-8932-46bf-9c0c-b78494cb2ee5)
-    (at 339.198 78.994 -90)
+    (at 80.88 62.484 -90)
     (descr "Micro SD Card Socket")
     (tags "Connector")
     (property "Sheetfile" "sd_tft.kicad_sch")
@@ -5807,7 +5807,7 @@
 
   (footprint "MY IC LIBRARY:CD74HC4067_SOIC-24" (layer "F.Cu")
     (tedit 5D9F72B1) (tstamp cd062b77-82ba-47b8-b53d-5b6d47fadbdb)
-    (at 393.7 160.528 180)
+    (at 135.382 144.018 180)
     (descr "SOIC, 24 Pin (JEDEC MS-013AD, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RW_24.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -5901,7 +5901,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0402WGF2202TCE" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp cd121819-959c-4ec3-9d7a-2693a8bb0812)
-    (at 532.13 157.988 90)
+    (at 323.342 82.296 90)
     (descr "0402 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "power.kicad_sch")
@@ -5943,7 +5943,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d4a7c7fe-e815-423e-a00d-d1caf0fcd2f2)
-    (at 376.174 45.72)
+    (at 117.856 29.21)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -5985,7 +5985,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d672d418-a647-4a42-960a-fce6ffd6b2b3)
-    (at 634.764 106.956)
+    (at 422.144 110.94)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -6027,7 +6027,7 @@
 
   (footprint "MY CONNECTOR LIBRARY:801-87-008-10-003101" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp dc2d5b67-8a28-413b-831a-484f2749480a)
-    (at 705.544 70.776)
+    (at 492.924 74.76)
     (descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x08 2.54mm single row")
     (property "Sheetfile" "sd_tft.kicad_sch")
@@ -6086,7 +6086,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp e7cf290a-e1fb-4640-97e4-ad084cad3d94)
-    (at 130.16 84.656)
+    (at 401.352 42.592)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -6128,7 +6128,7 @@
 
   (footprint "MY LED LIBRARY:LED_D3.0mm" (layer "F.Cu")
     (tedit 587A3A7B) (tstamp e896d3dc-620e-4d7f-a270-2ef1ff49e41f)
-    (at 523.235 173.99)
+    (at 314.447 98.298)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (property "Sheetfile" "power.kicad_sch")
@@ -6169,7 +6169,7 @@
 
   (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P" (layer "F.Cu")
     (tedit 61FEE5E3) (tstamp ecc4474f-498c-459a-89fc-43fb13193b52)
-    (at 340.4 107.65 90)
+    (at 82.082 91.14 90)
     (descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
     (tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
     (property "Sheetfile" "mux_pots.kicad_sch")
@@ -6223,7 +6223,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp eee41350-434a-4093-8dfc-a08f57a1cdda)
-    (at 546.173 78.74)
+    (at 381.781 27.246)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "sd_tft.kicad_sch")
@@ -6265,7 +6265,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp f2d0c2c7-1aa3-4749-9f99-bd34a85a0321)
-    (at 522.363 97.84)
+    (at 357.971 46.346)
     (descr "0603 SMD Resistor")
     (tags "resistor")
     (property "Sheetfile" "sd_tft.kicad_sch")
@@ -6307,7 +6307,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp f8169a47-e5ff-441a-bd7b-be79373a52bf)
-    (at 645.414 98.806)
+    (at 432.794 102.79)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -6349,7 +6349,7 @@
 
   (footprint "MY OPTO IC LIBRARY:6N137S1_TA_SMD-8P" (layer "F.Cu")
     (tedit 5A02E8C5) (tstamp f8bd0451-e675-4631-bbe7-f60b0feea891)
-    (at 423.418 85.09)
+    (at 165.1 68.58)
     (descr "8-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)")
     (tags "SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil")
     (property "Category" "Isolators")
@@ -6417,7 +6417,7 @@
 
   (footprint "MY RESISTOR LIBRARY:0805W8F330JT5E" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp fa4bebca-bd0e-4697-8bd7-7d317523461f)
-    (at 610.794 153.096)
+    (at 398.174 157.08)
     (descr "0805 SMD resistor")
     (tags "resistor")
     (property "Sheetfile" "midi.kicad_sch")
@@ -6459,7 +6459,7 @@
 
   (footprint "MY DIODE LIBRARY:1N4148W_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp fa8f0817-6238-41b8-b0fd-23496cb83486)
-    (at 481.394 87.306)
+    (at 317.002 35.812)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "midi.kicad_sch")
@@ -6509,7 +6509,7 @@
 
   (footprint "MY FUSE LIBRARY:0805_SMD0805P020TF" (layer "F.Cu")
     (tedit 5F68FEF1) (tstamp fb2dcc9f-5d62-4222-842b-03e8c1264d92)
-    (at 479.098 68.576)
+    (at 314.706 17.082)
     (descr "0805 - Resettable fuse - 9V - 200mA - 100A - 500mA")
     (tags "fuse")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -6551,7 +6551,7 @@
 
   (footprint "MountingHole:MountingHole_2.5mm_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp fbf87eb1-ce64-46fd-b462-e17ac8b75918)
-    (at 189.5 111.816)
+    (at 439.61 55.528)
     (descr "Mounting Hole 2.5mm")
     (tags "mounting hole 2.5mm")
     (property "Sheetfile" "ESP32 synth.kicad_sch")
@@ -6577,7 +6577,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A475KO8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp fe3de98d-5101-44e3-8151-6473df2167de)
-    (at 503.488 112.974)
+    (at 339.096 61.48)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "audio.kicad_sch")
@@ -6619,7 +6619,7 @@
 
   (footprint "MY CAPACITOR LIBRARY:CL10A475KO8NNNC_0603" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp fee0d809-c543-4d4b-a388-4528aa8d2784)
-    (at 134.17 84.656)
+    (at 405.362 42.592)
     (descr "0603 - SMD MLCC")
     (tags "capacitor")
     (property "Sheetfile" "mcu_usb_jtag.kicad_sch")
@@ -6659,61 +6659,61 @@
     )
   )
 
-  (gr_line (start 330.2 165.1) (end 330.2 63.5) (layer "Edge.Cuts") (width 0.1) (tstamp 0c934aca-df53-4036-bfdc-2303a3a5b3ad))
-  (gr_arc (start 444.5 50.8) (mid 453.480256 54.519744) (end 457.2 63.5) (layer "Edge.Cuts") (width 0.1) (tstamp 332b2065-9531-4e6d-9520-90e44a6a01a3))
-  (gr_arc (start 342.9 177.8) (mid 333.919744 174.080256) (end 330.2 165.1) (layer "Edge.Cuts") (width 0.1) (tstamp 5a4309c4-8009-4454-96ea-d0f5c1f5cfda))
-  (gr_line (start 444.5 177.8) (end 342.9 177.8) (layer "Edge.Cuts") (width 0.1) (tstamp 73ab43b6-99bd-439c-8be3-cdeb60eb4d83))
-  (gr_arc (start 330.2 63.5) (mid 333.919744 54.519744) (end 342.9 50.8) (layer "Edge.Cuts") (width 0.1) (tstamp a4452fb3-bc03-46ee-a5ef-806f61c33005))
-  (gr_line (start 457.2 63.5) (end 457.2 165.1) (layer "Edge.Cuts") (width 0.1) (tstamp a94c97df-f069-4478-a047-a2da58428260))
-  (gr_arc (start 457.2 165.1) (mid 453.480256 174.080256) (end 444.5 177.8) (layer "Edge.Cuts") (width 0.1) (tstamp c2c51c1c-4a61-407d-926a-31ab44d4c8d6))
-  (gr_line (start 342.9 50.8) (end 444.5 50.8) (layer "Edge.Cuts") (width 0.1) (tstamp d276d9b3-49c9-4848-bc89-d98cc4b6e2a8))
-  (gr_line (start 457.2 101.6) (end 330.2 101.6) (layer "User.2") (width 0.15) (tstamp 1cf47cf7-902c-46dc-a5d7-2d535b39fa7a))
-  (gr_line (start 330.2 50.8) (end 330.2 177.8) (layer "User.2") (width 0.15) (tstamp 2a3aeb8d-877f-4269-aa63-496751e54311))
-  (gr_line (start 330.2 177.8) (end 457.2 177.8) (layer "User.2") (width 0.15) (tstamp 40a0a1e7-750d-4b47-8b90-7dac960bc233))
-  (gr_line (start 457.2 50.8) (end 330.2 50.8) (layer "User.2") (width 0.15) (tstamp 529d7ea1-0e54-4822-bda4-94fefa85b960))
-  (gr_line (start 457.2 177.8) (end 457.2 50.8) (layer "User.2") (width 0.15) (tstamp 89251b5a-7e82-416e-bb3a-6d2c4b467936))
-  (gr_line (start 457.2 165.1) (end 330.2 165.1) (layer "User.2") (width 0.15) (tstamp 96c2e411-88d0-4a63-81b3-6401de793da2))
-  (gr_line (start 330.2 63.246) (end 457.2 63.246) (layer "User.2") (width 1) (tstamp bf9e2569-ce3d-49c0-a74a-fd8d6f7c3cb5))
+  (gr_line (start 71.882 148.59) (end 71.882 46.99) (layer "Edge.Cuts") (width 0.1) (tstamp 0c934aca-df53-4036-bfdc-2303a3a5b3ad))
+  (gr_arc (start 186.182 34.29) (mid 195.162256 38.009744) (end 198.882 46.99) (layer "Edge.Cuts") (width 0.1) (tstamp 332b2065-9531-4e6d-9520-90e44a6a01a3))
+  (gr_arc (start 84.582 161.29) (mid 75.601744 157.570256) (end 71.882 148.59) (layer "Edge.Cuts") (width 0.1) (tstamp 5a4309c4-8009-4454-96ea-d0f5c1f5cfda))
+  (gr_line (start 186.182 161.29) (end 84.582 161.29) (layer "Edge.Cuts") (width 0.1) (tstamp 73ab43b6-99bd-439c-8be3-cdeb60eb4d83))
+  (gr_arc (start 71.882 46.99) (mid 75.601744 38.009744) (end 84.582 34.29) (layer "Edge.Cuts") (width 0.1) (tstamp a4452fb3-bc03-46ee-a5ef-806f61c33005))
+  (gr_line (start 198.882 46.99) (end 198.882 148.59) (layer "Edge.Cuts") (width 0.1) (tstamp a94c97df-f069-4478-a047-a2da58428260))
+  (gr_arc (start 198.882 148.59) (mid 195.162256 157.570256) (end 186.182 161.29) (layer "Edge.Cuts") (width 0.1) (tstamp c2c51c1c-4a61-407d-926a-31ab44d4c8d6))
+  (gr_line (start 84.582 34.29) (end 186.182 34.29) (layer "Edge.Cuts") (width 0.1) (tstamp d276d9b3-49c9-4848-bc89-d98cc4b6e2a8))
+  (gr_line (start 198.882 85.09) (end 71.882 85.09) (layer "User.2") (width 0.15) (tstamp 1cf47cf7-902c-46dc-a5d7-2d535b39fa7a))
+  (gr_line (start 71.882 34.29) (end 71.882 161.29) (layer "User.2") (width 0.15) (tstamp 2a3aeb8d-877f-4269-aa63-496751e54311))
+  (gr_line (start 71.882 161.29) (end 198.882 161.29) (layer "User.2") (width 0.15) (tstamp 40a0a1e7-750d-4b47-8b90-7dac960bc233))
+  (gr_line (start 198.882 34.29) (end 71.882 34.29) (layer "User.2") (width 0.15) (tstamp 529d7ea1-0e54-4822-bda4-94fefa85b960))
+  (gr_line (start 198.882 161.29) (end 198.882 34.29) (layer "User.2") (width 0.15) (tstamp 89251b5a-7e82-416e-bb3a-6d2c4b467936))
+  (gr_line (start 198.882 148.59) (end 71.882 148.59) (layer "User.2") (width 0.15) (tstamp 96c2e411-88d0-4a63-81b3-6401de793da2))
+  (gr_line (start 71.882 46.736) (end 198.882 46.736) (layer "User.2") (width 1) (tstamp bf9e2569-ce3d-49c0-a74a-fd8d6f7c3cb5))
   (dimension (type aligned) (layer "User.2") (tstamp 4dfcc1c2-f991-4a89-b8d4-06ee6dacb21e)
-    (pts (xy 342.9 101.6) (xy 444.5 101.6))
+    (pts (xy 84.582 85.09) (xy 186.182 85.09))
     (height -8.89)
-    (gr_text "101,6000 mm" (at 393.7 91.56) (layer "User.2") (tstamp 4dfcc1c2-f991-4a89-b8d4-06ee6dacb21e)
+    (gr_text "101,6000 mm" (at 135.382 75.05) (layer "User.2") (tstamp 4dfcc1c2-f991-4a89-b8d4-06ee6dacb21e)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
   (dimension (type aligned) (layer "User.2") (tstamp 64a58951-a6d1-47c6-913a-923ea63d0a7c)
-    (pts (xy 457.2 50.8) (xy 457.2 177.8))
+    (pts (xy 198.882 34.29) (xy 198.882 161.29))
     (height -12.7)
-    (gr_text "127,0000 mm" (at 466.15 114.3 90) (layer "User.2") (tstamp 64a58951-a6d1-47c6-913a-923ea63d0a7c)
+    (gr_text "127,0000 mm" (at 207.832 97.79 90) (layer "User.2") (tstamp 64a58951-a6d1-47c6-913a-923ea63d0a7c)
       (effects (font (size 3 3) (thickness 1)))
     )
     (format (units 3) (units_format 1) (precision 4))
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
   (dimension (type aligned) (layer "User.2") (tstamp 8604108b-641e-4b43-a6fa-dd89c72850c5)
-    (pts (xy 330.2 63.246) (xy 393.7 63.246))
+    (pts (xy 71.882 46.736) (xy 135.382 46.736))
     (height -6.35)
-    (gr_text "63,5000 mm" (at 361.95 55.746) (layer "User.2") (tstamp 8604108b-641e-4b43-a6fa-dd89c72850c5)
+    (gr_text "63,5000 mm" (at 103.632 39.236) (layer "User.2") (tstamp 8604108b-641e-4b43-a6fa-dd89c72850c5)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
   (dimension (type aligned) (layer "User.2") (tstamp cd706051-3151-419e-94d2-e44a2cd21b31)
-    (pts (xy 457.2 101.6) (xy 457.2 165.1))
+    (pts (xy 198.882 85.09) (xy 198.882 148.59))
     (height -6.35)
-    (gr_text "63,5000 mm" (at 462.4 133.35 90) (layer "User.2") (tstamp cd706051-3151-419e-94d2-e44a2cd21b31)
+    (gr_text "63,5000 mm" (at 204.082 116.84 90) (layer "User.2") (tstamp cd706051-3151-419e-94d2-e44a2cd21b31)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
   (dimension (type aligned) (layer "User.2") (tstamp e927850d-8c74-4334-bfdc-5bd2250976da)
-    (pts (xy 330.2 43.18) (xy 457.2 43.18))
+    (pts (xy 71.882 26.67) (xy 198.882 26.67))
     (height -5.08)
-    (gr_text "127,0000 mm" (at 393.7 34.35) (layer "User.2") (tstamp e927850d-8c74-4334-bfdc-5bd2250976da)
+    (gr_text "127,0000 mm" (at 135.382 17.84) (layer "User.2") (tstamp e927850d-8c74-4334-bfdc-5bd2250976da)
       (effects (font (size 3 3) (thickness 1)))
     )
     (format (units 3) (units_format 1) (precision 4))
