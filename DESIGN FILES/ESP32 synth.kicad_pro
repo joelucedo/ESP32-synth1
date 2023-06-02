@@ -438,7 +438,7 @@
     ],
     [
       "d9324a9e-dba3-41c6-bc72-5792b855cd68",
-      "MCU - USB - JTAG"
+      "MCU - USB"
     ],
     [
       "f8737a4c-0364-41f5-9e82-da8515a295d3",
@@ -451,10 +451,6 @@
     [
       "f35edf43-d88e-4ddf-a78c-541150166114",
       "MUX - POTS"
-    ],
-    [
-      "a7506b8d-977b-4c33-b1ed-fbff9c7c5eef",
-      "SD - TFT"
     ]
   ],
   "text_variables": {}
