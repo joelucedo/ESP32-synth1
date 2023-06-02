@@ -5,10 +5,10 @@
   (paper "A3")
 
   (title_block
-    (title "SOLAR AUDIO - Little Sun")
-    (date "2023-06-01")
+    (title "ESP32 SYNTH")
+    (date "2023-06-02")
     (rev "0")
-    (company "SOLAR AUDIO")
+    (company "Joël Ucedo")
   )
 
   (lib_symbols
@@ -497,6 +497,9 @@
     )
     (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/a795a8cb-5ef0-4663-98c0-3630015da338"
       (reference "#PWR0603") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/b6a8b8a5-1256-4141-a9fd-768deb183e74"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/2b8035c3-84a9-4776-9db1-ec6c4931ad0e"
       (reference "C301") (unit 1) (value "1u") (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603")

@@ -2,9 +2,21 @@
 
   (uuid 56e8c0eb-3dfc-481d-9fd0-276e6bca924e)
 
-  (paper "A4")
+  (paper "A3")
+
+  (title_block
+    (title "ESP32 SYNTH")
+    (date "2023-06-02")
+    (rev "0")
+    (company "Joël Ucedo")
+  )
 
   (lib_symbols
   )
 
+
+  (text "BLOCK DIAGRAM" (at 25.4 31.75 0)
+    (effects (font (size 10 10) bold italic) (justify left bottom))
+    (uuid a0474218-f3e6-4a6a-a78d-5dae0c21e440)
+  )
 )
