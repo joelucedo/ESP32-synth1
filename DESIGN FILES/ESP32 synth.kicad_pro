@@ -444,7 +444,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "../DOCUMENTS/",
+    "plot_directory": "C:/Users/32470/Documents/GitHub/ESP32 - Little-Sun/ESP32-synth1/DOCUMENTS/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
