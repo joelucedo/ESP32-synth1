@@ -273,6 +273,18 @@
   )
 
   (symbol_instances
+    (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/941574cb-8a82-4c7f-b79f-5fe91002ac7e"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/24657a68-c82d-4702-86bd-d75eb4df20c7"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/189644f0-7e4b-412e-8920-55ba78a960db"
+      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/b2f255fd-c5bd-4046-bac2-284a1b42d4ba"
+      (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/f35edf43-d88e-4ddf-a78c-541150166114/5e154a9d-f9d2-44d8-90f9-8175fa82eb2e"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -329,6 +341,9 @@
     )
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/e037090a-b94d-4d83-b847-119a0c9d0b18"
       (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/0effa0f5-e7c9-4629-82f1-6821f25f3143"
+      (reference "#PWR0120") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/f35edf43-d88e-4ddf-a78c-541150166114/c454dcb1-0ae7-4886-b788-0d4e9f1fd010"
       (reference "#PWR0121") (unit 1) (value "+3V3") (footprint "")
@@ -498,9 +513,6 @@
     (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/a795a8cb-5ef0-4663-98c0-3630015da338"
       (reference "#PWR0603") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/0effa0f5-e7c9-4629-82f1-6821f25f3143"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
-    )
     (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/2b8035c3-84a9-4776-9db1-ec6c4931ad0e"
       (reference "C301") (unit 1) (value "1u") (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603")
     )
@@ -639,7 +651,7 @@
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/0d72a8cf-0be6-4a48-947b-15525f1b88d8"
       (reference "R401") (unit 1) (value "10k") (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E")
     )
-    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/4f34ac4b-6f8c-4b53-8522-36d2ad717b25"
+    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/ebf1df66-5917-4753-bf02-cd4e3d441219"
       (reference "R402") (unit 1) (value "1.5k") (footprint "MY RESISTOR LIBRARY:CQ03WAJ0152T5E")
     )
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/7000b9bb-89fc-4a34-9674-958c4bb9bbc7"
@@ -657,10 +669,10 @@
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/de289b4a-c41e-40b9-93da-a21c8f511fe2"
       (reference "R407") (unit 1) (value "1k") (footprint "MY RESISTOR LIBRARY:0603WAF1001T5E")
     )
-    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/37ef9714-b0cd-4506-bf0a-7f1a9b490189"
+    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/fa679e18-beff-4250-977b-fc31ab7d7f21"
       (reference "R408") (unit 1) (value "5.1k") (footprint "MY RESISTOR LIBRARY:0603WAF5101T5E")
     )
-    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/6d774e0a-678d-4554-a9f5-10630be18ab6"
+    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/c3adf965-eb30-4358-88d1-f32c7a484d77"
       (reference "R409") (unit 1) (value "5.1k") (footprint "MY RESISTOR LIBRARY:0603WAF5101T5E")
     )
     (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/6bb02c97-6964-4f89-8c52-9c61f6d54632"
@@ -672,16 +684,16 @@
     (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/f081be6c-6591-4190-ac55-24412c2bf935"
       (reference "R503") (unit 1) (value "10k") (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E")
     )
-    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/25764bc0-bb76-4b2b-bf2d-38c60e65a8cc"
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/e4305de2-213d-4949-b705-fb04b1b1849f"
       (reference "R504") (unit 1) (value "100R") (footprint "MY RESISTOR LIBRARY:0805W8F1000T5E")
     )
-    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/8e7d41e2-a7a6-4348-bd97-2f2be3392687"
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/529a5fa5-16bf-4a50-ad5a-55740e9d55ce"
       (reference "R505") (unit 1) (value "100R") (footprint "MY RESISTOR LIBRARY:0805W8F1000T5E")
     )
-    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/5f482f88-cc7c-49f6-950c-7dd3fe4e76f4"
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/d52ef262-e8ac-4517-9d10-80a750f1d3e6"
       (reference "R506") (unit 1) (value "47k") (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E")
     )
-    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/3db0346c-2f79-44d3-a4ab-445911fdb59c"
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/c9a3457a-1e70-4436-a10b-29173041b3a9"
       (reference "R507") (unit 1) (value "47k") (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E")
     )
     (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/bf0ea961-7166-4519-a10f-28e2277f86ef"
@@ -690,11 +702,11 @@
     (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/cf685953-083b-4ce3-aedb-2a01b302aa6b"
       (reference "R602") (unit 1) (value "10k") (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E")
     )
-    (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/81fb32c3-e48c-4075-9155-d890a1874acf"
-      (reference "R603") (unit 1) (value "33R") (footprint "MY RESISTOR LIBRARY:0805W8F330JT5E")
+    (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/9fdf1c39-0e38-4714-98fe-20a2dbf641f8"
+      (reference "R603") (unit 1) (value "33R") (footprint "MY RESISTOR LIBRARY:0603WAF330JT5E")
     )
-    (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/b95c9918-00cf-4397-855a-c01a98bb9dad"
-      (reference "R604") (unit 1) (value "33R") (footprint "MY RESISTOR LIBRARY:0805W8F330JT5E")
+    (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/1784e101-bd58-4a6c-8abd-9d47bc73d9b5"
+      (reference "R604") (unit 1) (value "33R") (footprint "MY RESISTOR LIBRARY:0603WAF330JT5E")
     )
     (path "/f35edf43-d88e-4ddf-a78c-541150166114/0bbc1b43-e5ca-4b49-81b7-710145200aef"
       (reference "RV701") (unit 1) (value "POT_A1") (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P")
