@@ -330,9 +330,6 @@
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/e037090a-b94d-4d83-b847-119a0c9d0b18"
       (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/9f380623-10cd-4704-b28b-bb7f2c738089"
-      (reference "#PWR0120") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/f35edf43-d88e-4ddf-a78c-541150166114/c454dcb1-0ae7-4886-b788-0d4e9f1fd010"
       (reference "#PWR0121") (unit 1) (value "+3V3") (footprint "")
     )
@@ -350,6 +347,9 @@
     )
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/f3ae5888-c8d2-4e53-bcef-9b0d41d0be71"
       (reference "#PWR0126") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/b6a8b8a5-1256-4141-a9fd-768deb183e74"
+      (reference "#PWR0127") (unit 1) (value "GND") (footprint "")
     )
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/36754ee7-bc47-470b-9d1f-1f4aff18f838"
       (reference "#PWR0128") (unit 1) (value "+3V3") (footprint "")
@@ -498,8 +498,8 @@
     (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/a795a8cb-5ef0-4663-98c0-3630015da338"
       (reference "#PWR0603") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/b6a8b8a5-1256-4141-a9fd-768deb183e74"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/0effa0f5-e7c9-4629-82f1-6821f25f3143"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/2b8035c3-84a9-4776-9db1-ec6c4931ad0e"
       (reference "C301") (unit 1) (value "1u") (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603")
