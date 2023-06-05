@@ -122,6 +122,40 @@
     (uuid e6addae2-b6dd-4784-b932-e842d8be84e6)
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 114.3 274.32 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 0cf09b6c-5a1f-400f-b5ea-233bb5171450)
+    (property "Reference" "H108" (id 0) (at 116.84 274.3199 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 116.84 275.5899 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 114.3 274.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 114.3 274.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 38.1 274.32 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 266dfe86-d060-4e46-9916-32bef1fe6043)
+    (property "Reference" "H105" (id 0) (at 40.64 274.3199 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 40.64 275.5899 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 38.1 274.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 38.1 274.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 38.1 260.35 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3cadc305-8f86-4521-8660-1826c5478e1d)
@@ -169,6 +203,40 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 260.35 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 63.5 274.32 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 6cff5a3d-0ec9-44b4-ab9f-dc4b2d46de2c)
+    (property "Reference" "H106" (id 0) (at 66.04 274.3199 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 66.04 275.5899 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 63.5 274.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 63.5 274.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 88.9 274.32 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid d2e2e360-82ff-44d9-92f8-c0c131d8c201)
+    (property "Reference" "H107" (id 0) (at 91.44 274.3199 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 91.44 275.5899 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 88.9 274.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 88.9 274.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
@@ -498,6 +566,9 @@
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/8296e2a0-1ece-48ee-a102-328035402f7e"
       (reference "#PWR0410") (unit 1) (value "GND") (footprint "")
     )
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/f0583cae-d2e4-46c6-9ece-f28bc68d296b"
+      (reference "#PWR0501") (unit 1) (value "GND") (footprint "")
+    )
     (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/d73380ac-6ebf-4693-aed1-20aeddb8ef06"
       (reference "#PWR0502") (unit 1) (value "GND") (footprint "")
     )
@@ -510,8 +581,14 @@
     (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/674637d7-5bb4-4985-9492-a42a47aaa3e4"
       (reference "#PWR0601") (unit 1) (value "GND") (footprint "")
     )
+    (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/24d9a905-4e89-4b54-b1ea-6d058a404c06"
+      (reference "#PWR0602") (unit 1) (value "GND") (footprint "")
+    )
     (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/a795a8cb-5ef0-4663-98c0-3630015da338"
       (reference "#PWR0603") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/d5d7cb98-c8ba-44b7-a99c-687736cafb68"
+      (reference "#PWR0604") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/2b8035c3-84a9-4776-9db1-ec6c4931ad0e"
       (reference "C301") (unit 1) (value "1u") (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603")
@@ -567,6 +644,12 @@
     (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/f8c4c659-0316-48f9-a14b-11cfa80dea91"
       (reference "C505") (unit 1) (value "4.7u") (footprint "MY CAPACITOR LIBRARY:CL10A475KO8NNNC_0603")
     )
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/dca7d3f2-d17e-4625-be15-3b9053d4aa42"
+      (reference "C506") (unit 1) (value "1u") (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603")
+    )
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/41db8ad5-6df5-43b6-92b2-b3a4254edc56"
+      (reference "C507") (unit 1) (value "1u") (footprint "MY CAPACITOR LIBRARY:CL10A105KB8NNNC_0603")
+    )
     (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/296ea8af-7cba-4a0d-99a2-81c8214f1409"
       (reference "C508") (unit 1) (value "220u") (footprint "MY CAPACITOR LIBRARY:RVT1A221M0605")
     )
@@ -615,8 +698,23 @@
     (path "/3e047ae4-49e8-4b3e-87c4-c48c066ecd7d"
       (reference "H104") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm_Pad")
     )
+    (path "/266dfe86-d060-4e46-9916-32bef1fe6043"
+      (reference "H105") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
+    )
+    (path "/6cff5a3d-0ec9-44b4-ab9f-dc4b2d46de2c"
+      (reference "H106") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
+    )
+    (path "/d2e2e360-82ff-44d9-92f8-c0c131d8c201"
+      (reference "H107") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
+    )
+    (path "/0cf09b6c-5a1f-400f-b5ea-233bb5171450"
+      (reference "H108") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
+    )
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/9ea49803-9ac1-4639-a773-298768da85c6"
       (reference "J401") (unit 1) (value "YTC-TC16S-28") (footprint "MY CONNECTOR LIBRARY:YTC-TC16S-28")
+    )
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/7460ddac-3200-499b-a63b-bf2dab961513"
+      (reference "J501") (unit 1) (value "PJ-342B-TX-SMT") (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT")
     )
     (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/697c5667-a301-4046-aecb-f99acfb2c39c"
       (reference "J502") (unit 1) (value "PJ-342B-TX-SMT") (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT")
@@ -629,6 +727,9 @@
     )
     (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/8492cc66-d8c1-4d46-8b1e-d55d4e64f5be"
       (reference "J602") (unit 1) (value "PJ-342B-TX-SMT") (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT")
+    )
+    (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/28442394-4666-41df-8380-6f33a112aba1"
+      (reference "J603") (unit 1) (value "PJ-342B-TX-SMT") (footprint "MY CONNECTOR LIBRARY:PJ-342B-TX-SMT")
     )
     (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/fe7f5c0f-95e6-44fa-a7c5-c38ba9eeccfd"
       (reference "L301") (unit 1) (value "2.2u") (footprint "MY INDUCTOR LIBRARY:CD32YP0302-2R2M")
@@ -707,6 +808,12 @@
     )
     (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/1784e101-bd58-4a6c-8abd-9d47bc73d9b5"
       (reference "R604") (unit 1) (value "33R") (footprint "MY RESISTOR LIBRARY:0603WAF330JT5E")
+    )
+    (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/b297cf2f-2707-4467-bbcb-595281924cfc"
+      (reference "R605") (unit 1) (value "33R") (footprint "MY RESISTOR LIBRARY:0603WAF330JT5E")
+    )
+    (path "/0de1fcf4-449e-4952-8cf4-d374b06f002e/ac53352e-0c64-4b1d-8ea4-55ad9f932fe5"
+      (reference "R606") (unit 1) (value "33R") (footprint "MY RESISTOR LIBRARY:0603WAF330JT5E")
     )
     (path "/f35edf43-d88e-4ddf-a78c-541150166114/0bbc1b43-e5ca-4b49-81b7-710145200aef"
       (reference "RV701") (unit 1) (value "POT_A1") (footprint "MY POTENTIOMETER LIBRARY:RK09D1130C2P")
