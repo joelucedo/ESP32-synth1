@@ -7,4 +7,4 @@
 Work in progress.
 </br>
 ## SPECS
-Audio in and out, MIDI in and out, 16 pot + 1 volume pot, USB-C, reset switch
+Audio in/out and headphone,  MIDI in/out/thru, 16 pot + 1 volume pot, USB-C, reset switch
