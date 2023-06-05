@@ -1,7 +1,7 @@
 ## ESP32 SYNTH
 ***ESP32 Wrover E/IE based synthesizer***
-![ESP32 Synth](https://github.com/joelucedo/ESP32-synth1/assets/132199473/bb8371a1-eefc-4d41-8c87-303f8b670468)
 
+![ESP32 synth](https://github.com/joelucedo/ESP32-synth1/assets/132199473/0bc861c4-eb07-4923-bc7f-995d06bbd008)
 
 ## STATUS
 Work in progress.
