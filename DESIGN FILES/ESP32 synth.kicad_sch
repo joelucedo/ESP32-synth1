@@ -661,13 +661,13 @@
       (reference "Q402") (unit 1) (value "MMBT3904") (footprint "MY TRANSISTOR LIBRARY:MMBT3904_SOT-23")
     )
     (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/96ccb576-a025-4681-b5bb-569ed2456ed0"
-      (reference "R301") (unit 1) (value "100k") (footprint "MY RESISTOR LIBRARY:0402WGF1003TCE")
+      (reference "R301") (unit 1) (value "100k") (footprint "MY RESISTOR LIBRARY:0603WAF1003T5E")
     )
     (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/71835ac1-c995-4de3-937f-ff5095083777"
-      (reference "R302") (unit 1) (value "22k") (footprint "MY RESISTOR LIBRARY:0402WGF2202TCE")
+      (reference "R302") (unit 1) (value "22k") (footprint "MY RESISTOR LIBRARY:0603WAF2200T5E")
     )
     (path "/e2b921bb-613e-4d1f-a67f-d3d2c9ef8b41/588436c9-486a-4f79-9dbe-40a62b7eb80f"
-      (reference "R303") (unit 1) (value "2.2k") (footprint "MY RESISTOR LIBRARY:0402WGF2201TCE")
+      (reference "R303") (unit 1) (value "2.2k") (footprint "MY RESISTOR LIBRARY:0603WAF2201T5E")
     )
     (path "/d9324a9e-dba3-41c6-bc72-5792b855cd68/0d72a8cf-0be6-4a48-947b-15525f1b88d8"
       (reference "R401") (unit 1) (value "10k") (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E")
@@ -705,11 +705,11 @@
     (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/f081be6c-6591-4190-ac55-24412c2bf935"
       (reference "R503") (unit 1) (value "10k") (footprint "MY RESISTOR LIBRARY:0603WAF1002T5E")
     )
-    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/e4305de2-213d-4949-b705-fb04b1b1849f"
-      (reference "R504") (unit 1) (value "100R") (footprint "MY RESISTOR LIBRARY:0805W8F1000T5E")
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/c0acc08c-a7d1-41f2-a5da-5bdeeb63aefa"
+      (reference "R504") (unit 1) (value "100R") (footprint "MY RESISTOR LIBRARY:0603WAF1000T5E")
     )
-    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/529a5fa5-16bf-4a50-ad5a-55740e9d55ce"
-      (reference "R505") (unit 1) (value "100R") (footprint "MY RESISTOR LIBRARY:0805W8F1000T5E")
+    (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/47fa5bcc-459f-4e44-a26f-2b933fffe1c2"
+      (reference "R505") (unit 1) (value "100R") (footprint "MY RESISTOR LIBRARY:0603WAF1000T5E")
     )
     (path "/f8737a4c-0364-41f5-9e82-da8515a295d3/d52ef262-e8ac-4517-9d10-80a750f1d3e6"
       (reference "R506") (unit 1) (value "47k") (footprint "MY RESISTOR LIBRARY:0603WAF4702T5E")

@@ -60,10 +60,7 @@
           "width": 0.286
         }
       ],
-      "drc_exclusions": [
-        "malformed_courtyard|191905000|59202000|78f0421a-a0cd-4558-beee-2161b6ac1dee|00000000-0000-0000-0000-000000000000",
-        "malformed_courtyard|197485000|49002000|78f0421a-a0cd-4558-beee-2161b6ac1dee|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -112,7 +109,7 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.09999999999999999,
-        "min_copper_edge_clearance": 0.22,
+        "min_copper_edge_clearance": 0.35,
         "min_hole_clearance": 0.26999999999999996,
         "min_hole_to_hole": 0.26999999999999996,
         "min_microvia_diameter": 0.44999999999999996,
@@ -132,12 +129,17 @@
         0.286,
         0.3,
         0.5,
-        0.7
+        0.7,
+        1.0
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         },
         {
           "diameter": 0.7,
