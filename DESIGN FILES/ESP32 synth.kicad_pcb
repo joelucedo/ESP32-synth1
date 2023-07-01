@@ -2883,6 +2883,11 @@
       (net 137 "/POWER/BUCK1_SW") (pinfunction "1") (pintype "passive") (tstamp 74f3990e-c8f4-4599-b8f4-863ffd4f7d51))
     (pad "2" smd roundrect (at 1.143 -1.5875 90) (size 3.175 1.27) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 6 "+3V3") (pinfunction "2") (pintype "passive") (tstamp 8e16c21d-40ec-4a0b-a6ee-acab06bf989b))
+    (model "C:/Users/32470/Documents/GitHub/MY-KICAD-LIBRARY/MY 3D MODELS/Inductor_CD32.STEP"
+      (offset (xyz 0 1.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "MY RESISTOR LIBRARY:0603WAF1000T5E" (layer "F.Cu")
